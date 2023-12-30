@@ -12,6 +12,8 @@
 
 <img src="https://github.com/WHU-EIS-Robotics/MSPM0-DevKit/tree/main/docs/Development_Env/img/003.png"></img>
 
+![s](/MSPM0-DevKit/Development_Env/img/003.png)
+
 **然后以管理员身份运行开始菜单的Keil uVision5，点file-license management**
 
 <img src="https://github.com/WHU-EIS-Robotics/MSPM0-DevKit/tree/main/docs/Development_Env/img/008.png"></img>
