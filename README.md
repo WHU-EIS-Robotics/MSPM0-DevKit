@@ -4,7 +4,7 @@
 
 ## 使用教程
 
-点此查看[使用教程]。
+点此查看[使用教程](whu-eis-robotics.github.io/MSPM0-DevKit)。
 
 ## LICENSE
 
