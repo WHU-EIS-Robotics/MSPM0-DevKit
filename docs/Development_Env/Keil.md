@@ -10,9 +10,7 @@
 
 **继续点击next，提示需要输入用户名和邮箱等信息的话，输入任意信息即可，最后安装完成，点击finish退出向导**
 
-<img src="https://github.com/WHU-EIS-Robotics/MSPM0-DevKit/tree/main/docs/Development_Env/img/003.png"></img>
-
-![s](/MSPM0-DevKit/Development_Env/img/003.png)
+<img src="./img/003.png"></img>
 
 **然后以管理员身份运行开始菜单的Keil uVision5，点file-license management**
 
