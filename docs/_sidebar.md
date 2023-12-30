@@ -6,7 +6,7 @@
 - [开发工作流程](Workflow/)
   - [芯片配置器](Workflow/SysConfig.md)
   - [Keil开发工作流](Workflow/Keil.md)
-  - [VSCode开发工作流](VSCode.md)
+  - [VSCode开发工作流](Workflow/VSCode.md)
 - [例程说明](Examples/)
   - [GPIO](Examples/GPIO.md)
 - [报错及解决方案](Issue/)
