@@ -2,7 +2,7 @@
 
 **双击“MDK535.EXE”运行安装软件，勾选我接受许可证协议条款，点击next**
 
-<img src="/Development_Env/img/001.png"></img>
+<img src="/Development_Env/img/001.png"/>
 
 **直接Next'将Keil MDK 5安装到默认的这些文件夹。 按“浏览”选择不同的文件夹进行安装**
 
@@ -10,7 +10,9 @@
 
 **继续点击next，提示需要输入用户名和邮箱等信息的话，输入任意信息即可，最后安装完成，点击finish退出向导**
 
-<img src="./img/003.png"></img>
+<div>
+<img src="./img/003.png"/>
+</div>
 
 **然后以管理员身份运行开始菜单的Keil uVision5，点file-license management**
 
