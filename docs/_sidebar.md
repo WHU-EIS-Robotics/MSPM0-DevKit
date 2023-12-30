@@ -4,6 +4,7 @@
   - [使用Keil](Development_Env/Keil.md)
   - [使用VSCode](Development_Env/VSCode.md)
 - [开发工作流程](Workflow/)
+  - [MSPM0 SDK](Workflow/SDK.md)
   - [芯片配置器](Workflow/SysConfig.md)
   - [Keil开发工作流](Workflow/Keil.md)
   - [VSCode开发工作流](Workflow/VSCode.md)
