@@ -40,7 +40,7 @@ SysConfig的界面应该如下所示：
 
 * SDK版本和路径以蓝色突出显示，对应于`MSPM0_SDK_INSTALL_DIR`。
 
-![image](./img/002.png)
+![image](./img/002.jpg)
 
 5. 在Keil uVision中，选择**Tools**→**Custom Tool Menu**from the menu.
 
