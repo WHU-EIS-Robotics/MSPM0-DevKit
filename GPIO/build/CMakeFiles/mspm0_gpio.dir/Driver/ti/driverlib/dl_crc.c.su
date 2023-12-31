@@ -1,4 +1,0 @@
-D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_crc.c:37:10:DL_CRC_calculateBlock32	12	static
-D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_crc.c:51:10:DL_CRC_calculateMemoryRange32	8	static
-D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_crc.c:66:10:DL_CRC_calculateBlock16	24	static
-D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_crc.c:80:10:DL_CRC_calculateMemoryRange16	16	static

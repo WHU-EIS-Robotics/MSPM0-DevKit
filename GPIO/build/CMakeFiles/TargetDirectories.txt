@@ -1,3 +1,0 @@
-D:/Document/EE/MCU/MSPM0/MSPM0-DevKit/GPIO/build/CMakeFiles/mspm0_gpio.dir
-D:/Document/EE/MCU/MSPM0/MSPM0-DevKit/GPIO/build/CMakeFiles/edit_cache.dir
-D:/Document/EE/MCU/MSPM0/MSPM0-DevKit/GPIO/build/CMakeFiles/rebuild_cache.dir

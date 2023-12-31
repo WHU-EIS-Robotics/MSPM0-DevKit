@@ -1,4 +1,0 @@
-D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Core\src\ti_msp_dl_config.c:55:21:SYSCFG_DL_initPower	8	static
-D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Core\src\ti_msp_dl_config.c:63:21:SYSCFG_DL_GPIO_init	0	static
-D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Core\src\ti_msp_dl_config.c:73:21:SYSCFG_DL_SYSCTL_init	0	static
-D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Core\src\ti_msp_dl_config.c:47:21:SYSCFG_DL_init	8	static
