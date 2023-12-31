@@ -1,0 +1,3 @@
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_vref.c:37:6:DL_VREF_configReference	0	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_vref.c:45:6:DL_VREF_setClockConfig	0	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_vref.c:51:6:DL_VREF_getClockConfig	0	static

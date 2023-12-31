@@ -1,0 +1,2 @@
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\m0p\dl_interrupt.c:49:6:DL_Interrupt_registerInterrupt	20	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\m0p\dl_interrupt.c:70:6:DL_Interrupt_unregisterInterrupt	0	static
