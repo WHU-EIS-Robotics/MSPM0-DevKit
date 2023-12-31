@@ -48,7 +48,7 @@ set (PROJECT_INCLUDES
 	# LIST INCLUDE DIRECTORIES HERE
     BSP/Inc
     Core/Inc
-    Driver/CMSIS/Include
+    Driver/CMSIS/Core/Include
     Driver
     )
 
