@@ -23,7 +23,7 @@ set (MFLOAT_ABI_MIX                   "-mfloat-abi=softfp")
 ###################### VARIABLES ######################################
 set (PROJECT_NAME             "mspm0_uart_echo")
 set (PROJECT_TYPE             "exe")
-set (LINKER_SCRIPT            "MSPM0L1306.ld")
+set (LINKER_SCRIPT            "${CMAKE_CURRENT_SOURCE_DIR}/MSPM0L1306.ld")
 set (MCPU                     ${MCPU_CORTEX_M0PLUS})
 set (MFPU                     "")
 set (MFLOAT_ABI               "")
