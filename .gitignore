@@ -2,3 +2,6 @@
 **/.vscode
 **/Listings
 **/Objects
+**/build
+**/Debug
+**/Release
