@@ -1,0 +1,6 @@
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\m0p\sysctl\dl_sysctl_mspm0l11xx_l13xx.c:40:6:DL_SYSCTL_switchMCLKfromSYSOSCtoLFCLK	0	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\m0p\sysctl\dl_sysctl_mspm0l11xx_l13xx.c:58:6:DL_SYSCTL_switchMCLKfromLFCLKtoSYSOSC	0	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\m0p\sysctl\dl_sysctl_mspm0l11xx_l13xx.c:73:34:DL_SYSCTL_getPowerPolicyRUNSLEEP	0	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\m0p\sysctl\dl_sysctl_mspm0l11xx_l13xx.c:95:29:DL_SYSCTL_getPowerPolicySTOP	0	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\m0p\sysctl\dl_sysctl_mspm0l11xx_l13xx.c:118:32:DL_SYSCTL_getPowerPolicySTANDBY	0	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\m0p\sysctl\dl_sysctl_mspm0l11xx_l13xx.c:137:6:DL_SYSCTL_configFCC	0	static

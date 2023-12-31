@@ -1,0 +1,16 @@
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_uart.c:38:6:DL_UART_init	12	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_uart.c:55:6:DL_UART_setClockConfig	0	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_uart.c:62:6:DL_UART_getClockConfig	0	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_uart.c:69:6:DL_UART_configBaudRate	16	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_uart.c:137:6:DL_UART_setIrDAPulseLength	8	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_uart.c:127:6:DL_UART_configIrDAMode	16	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_uart.c:155:9:DL_UART_receiveDataBlocking	0	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_uart.c:163:6:DL_UART_transmitDataBlocking	0	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_uart.c:170:6:DL_UART_receiveDataCheck	0	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_uart.c:183:6:DL_UART_transmitDataCheck	0	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_uart.c:196:10:DL_UART_drainRXFIFO	8	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_uart.c:211:10:DL_UART_fillTXFIFO	12	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_uart.c:226:6:DL_UART_Main_saveConfiguration	0	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_uart.c:247:6:DL_UART_Main_restoreConfiguration	12	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_uart.c:279:6:DL_UART_Extend_saveConfiguration	0	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_uart.c:304:6:DL_UART_Extend_restoreConfiguration	16	static

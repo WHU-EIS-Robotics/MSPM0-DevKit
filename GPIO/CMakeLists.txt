@@ -23,7 +23,11 @@ set (MFLOAT_ABI_MIX                   "-mfloat-abi=softfp")
 ###################### VARIABLES ######################################
 set (PROJECT_NAME             "mspm0_gpio")
 set (PROJECT_TYPE             "exe")
+<<<<<<< HEAD
 set (LINKER_SCRIPT            "${CMAKE_CURRENT_SOURCE_DIR}/MSPM0L1306.ld")
+=======
+set (LINKER_SCRIPT            "./MSPM0L1306.ld")
+>>>>>>> 0c2bda89edb057f395faf4a1d6c3ce921dfbc9f6
 set (MCPU                     ${MCPU_CORTEX_M0PLUS})
 set (MFPU                     "")
 set (MFLOAT_ABI               "")

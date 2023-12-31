@@ -1,0 +1,12 @@
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_i2c.c:41:6:DL_I2C_setClockConfig	12	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_i2c.c:50:6:DL_I2C_getClockConfig	0	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_i2c.c:60:10:DL_I2C_fillControllerTXFIFO	12	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_i2c.c:74:6:DL_I2C_flushControllerTXFIFO	0	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_i2c.c:83:6:DL_I2C_flushControllerRXFIFO	0	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_i2c.c:95:9:DL_I2C_fillTargetTXFIFO	12	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_i2c.c:108:6:DL_I2C_flushTargetTXFIFO	0	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_i2c.c:117:6:DL_I2C_flushTargetRXFIFO	0	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_i2c.c:126:6:DL_I2C_transmitTargetDataBlocking	0	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_i2c.c:136:6:DL_I2C_transmitTargetDataCheck	0	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_i2c.c:148:9:DL_I2C_receiveTargetDataBlocking	0	static
+D:\Document\EE\MCU\MSPM0\MSPM0-DevKit\GPIO\Driver\ti\driverlib\dl_i2c.c:158:6:DL_I2C_receiveTargetDataCheck	0	static
