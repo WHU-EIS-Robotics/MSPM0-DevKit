@@ -37,4 +37,40 @@
 
 ![image](./img/010.png)
 
+找到SDK安装目录，打开`<SDK_PATH>/tools/keil/MSPM0_SDK_syscfg_menu_import.cfg`，修改第二行的Command参数，把SDK和Sysconfig的安装目录替换成你自己实际的安装目录。
+
+修改前：
+
+```
+[Sysconfig v1.18.0 - MSPM0 SDK v1_20_01_06]
+Command=C:\ti\sysconfig_1.18.1\nw\nw.exe C:\ti\sysconfig_1.18.1
+Initial Folder=c:\ti\mspm0_sdk_1_20_01_06
+Arguments=--compiler keil -s ".metadata\product.json" "#E"
+Prompt for Arguments=0
+Run Minimized=0
+Run Independent=-1
+```
+
+修改后：
+
+```
+[Sysconfig v1.18.0 - MSPM0 SDK v1_20_01_06]
+Command=C:\Develop\Embedded\MSPM0\sysconfig_1.18.1\nw\nw.exe C:\Develop\Embedded\MSPM0\sysconfig_1.18.1
+Initial Folder=c:\Develop\Embedded\MSPM0\mspm0_sdk_1_20_01_06
+Arguments=--compiler keil -s ".metadata\product.json" "#E"
+Prompt for Arguments=0
+Run Minimized=0
+Run Independent=-1
+```
+
+注意版本号可能也跟你的实际版本不一样，记得也要改。
+
+点击Keil顶部工具栏中 Tool->Customize Tools Menu，如下图所示：
+
+![image](./img/012.png)
+
+在弹出的界面中点击`Import`，选取你刚刚改的文件。
+
+![image](./img/013.png)
+
 至此完成了环境部署
