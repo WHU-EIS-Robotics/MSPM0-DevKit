@@ -17,4 +17,4 @@
 * CMSIS内核驱动库在`<SDK_PATH>/source/third_party/CMSIS`目录下
 * MSPM0外设驱动库源码在`<SDK_PATH>/source/ti/driverlib`目录下
 
-至此已完成SDK的环境部署，如何使用SDK，请参阅[开发者指南](../Developer_Guidelines/New_Project)
+至此已完成SDK的环境部署，如何使用SDK，请参阅[开发者指南](/Developer_Guidelines/New_Project)
