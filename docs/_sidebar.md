@@ -3,6 +3,8 @@
 - [开发环境](Development_Env/)
   - [使用Keil](Development_Env/Keil.md)
   - [使用VSCode](Development_Env/VSCode.md)
+  - [部署MSPM0 SDK](Development_Env/SDK.md)
+  - [部署芯片配置器](Development_Env/SysConfig.md)
 - [开发工作流程](Workflow/)
   - [MSPM0 SDK](Workflow/SDK.md)
   - [芯片配置器](Workflow/SysConfig.md)
