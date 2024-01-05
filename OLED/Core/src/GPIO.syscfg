@@ -1,0 +1,91 @@
+/**
+ * These arguments were used when this file was generated. They will be automatically applied on subsequent loads
+ * via the GUI or CLI. Run CLI with '--help' for additional information on how to override these arguments.
+ * @cliArgs --device "MSPM0L130X" --package "VQFN-32(RHB)" --part "Default" --product "mspm0_sdk@1.20.01.06"
+ * @versions {"tool":"1.18.1+3343"}
+ */
+
+/**
+ * Import the modules used in this configuration.
+ */
+const GPIO          = scripting.addModule("/ti/driverlib/GPIO", {}, false);
+const GPIO1         = GPIO.addInstance();
+const SYSCTL        = scripting.addModule("/ti/driverlib/SYSCTL");
+const ProjectConfig = scripting.addModule("/ti/project_config/ProjectConfig");
+
+/**
+ * Write custom configuration values to the imported modules.
+ */
+GPIO1.$name                         = "GPIO";
+GPIO1.port                          = "PORTA";
+GPIO1.associatedPins.create(26);
+GPIO1.associatedPins[0].assignedPin = "1";
+GPIO1.associatedPins[0].$name       = "PIN_2";
+GPIO1.associatedPins[1].assignedPin = "2";
+GPIO1.associatedPins[1].$name       = "PIN_6";
+GPIO1.associatedPins[2].$name       = "PIN_7";
+GPIO1.associatedPins[2].assignedPin = "3";
+GPIO1.associatedPins[3].$name       = "PIN_8";
+GPIO1.associatedPins[3].assignedPin = "4";
+GPIO1.associatedPins[4].$name       = "PIN_9";
+GPIO1.associatedPins[4].assignedPin = "5";
+GPIO1.associatedPins[5].$name       = "PIN_10";
+GPIO1.associatedPins[6].$name       = "PIN_11";
+GPIO1.associatedPins[7].$name       = "PIN_12";
+GPIO1.associatedPins[8].$name       = "PIN_13";
+GPIO1.associatedPins[9].$name       = "PIN_14";
+GPIO1.associatedPins[10].$name      = "PIN_15";
+GPIO1.associatedPins[11].$name      = "PIN_16";
+GPIO1.associatedPins[12].$name      = "PIN_17";
+GPIO1.associatedPins[13].$name      = "PIN_18";
+GPIO1.associatedPins[14].$name      = "PIN_19";
+GPIO1.associatedPins[15].$name      = "PIN_20";
+GPIO1.associatedPins[16].$name      = "PIN_21";
+GPIO1.associatedPins[17].$name      = "PIN_22";
+GPIO1.associatedPins[18].$name      = "PIN_25";
+GPIO1.associatedPins[19].$name      = "PIN_26";
+GPIO1.associatedPins[20].$name      = "PIN_27";
+GPIO1.associatedPins[21].$name      = "PIN_28";
+GPIO1.associatedPins[22].$name      = "PIN_29";
+GPIO1.associatedPins[23].$name      = "PIN_30";
+GPIO1.associatedPins[24].$name      = "PIN_31";
+GPIO1.associatedPins[25].$name      = "PIN_0";
+
+const Board = scripting.addModule("/ti/driverlib/Board", {}, false);
+
+SYSCTL.clockTreeEn = true;
+
+/**
+ * Pinmux solution for unlocked pins/peripherals. This ensures that minor changes to the automatic solver in a future
+ * version of the tool will not impact the pinmux you originally saw.  These lines can be completely deleted in order to
+ * re-solve from scratch.
+ */
+GPIO1.associatedPins[0].pin.$suggestSolution  = "PA1";
+GPIO1.associatedPins[1].pin.$suggestSolution  = "PA2";
+GPIO1.associatedPins[2].pin.$suggestSolution  = "PA3";
+GPIO1.associatedPins[3].pin.$suggestSolution  = "PA4";
+GPIO1.associatedPins[4].pin.$suggestSolution  = "PA5";
+GPIO1.associatedPins[5].pin.$suggestSolution  = "PA0";
+GPIO1.associatedPins[6].pin.$suggestSolution  = "PA6";
+GPIO1.associatedPins[7].pin.$suggestSolution  = "PA7";
+GPIO1.associatedPins[8].pin.$suggestSolution  = "PA8";
+GPIO1.associatedPins[9].pin.$suggestSolution  = "PA9";
+GPIO1.associatedPins[10].pin.$suggestSolution = "PA10";
+GPIO1.associatedPins[11].pin.$suggestSolution = "PA11";
+GPIO1.associatedPins[12].pin.$suggestSolution = "PA12";
+GPIO1.associatedPins[13].pin.$suggestSolution = "PA13";
+GPIO1.associatedPins[14].pin.$suggestSolution = "PA14";
+GPIO1.associatedPins[15].pin.$suggestSolution = "PA15";
+GPIO1.associatedPins[16].pin.$suggestSolution = "PA16";
+GPIO1.associatedPins[17].pin.$suggestSolution = "PA17/OPA1.IN0-";
+GPIO1.associatedPins[18].pin.$suggestSolution = "PA18";
+GPIO1.associatedPins[19].pin.$suggestSolution = "PA21";
+GPIO1.associatedPins[20].pin.$suggestSolution = "PA22";
+GPIO1.associatedPins[21].pin.$suggestSolution = "PA23";
+GPIO1.associatedPins[22].pin.$suggestSolution = "PA24/OPA0.IN0-";
+GPIO1.associatedPins[23].pin.$suggestSolution = "PA25";
+GPIO1.associatedPins[24].pin.$suggestSolution = "PA26";
+GPIO1.associatedPins[25].pin.$suggestSolution = "PA27";
+Board.peripheral.$suggestSolution             = "DEBUGSS";
+Board.peripheral.swclkPin.$suggestSolution    = "PA20";
+Board.peripheral.swdioPin.$suggestSolution    = "PA19";
