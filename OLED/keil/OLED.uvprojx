@@ -410,6 +410,11 @@
               <FileType>5</FileType>
               <FilePath>..\OLED.syscfg</FilePath>
             </File>
+            <File>
+              <FileName>startup_mspm0l1306_uvision.s</FileName>
+              <FileType>2</FileType>
+              <FilePath>.\startup_mspm0l1306_uvision.s</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
