@@ -68,7 +68,7 @@
 
 在Keil中双击打开`XXXX.syscfg`文件，然后找到Keil最上方工具栏，点击Tools->SysConfig......这个选项。
 
-</br>
+
 ![image](./img/007.png)
 
 然后会打开SysConfig配置界面。按照各个外设的属性配置相应的功能。
