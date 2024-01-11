@@ -400,6 +400,11 @@
               <FileType>2</FileType>
               <FilePath>.\startup_mspm0l1306_uvision.s</FilePath>
             </File>
+            <File>
+              <FileName>GPIO.syscfg</FileName>
+              <FileType>5</FileType>
+              <FilePath>..\GPIO.syscfg</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
