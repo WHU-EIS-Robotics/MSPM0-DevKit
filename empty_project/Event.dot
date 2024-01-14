@@ -1,0 +1,18 @@
+
+
+digraph H {
+
+  parent [
+   shape=plaintext
+   label=<
+     <table border='1' cellborder='1'>
+       <tr>
+            <td bgcolor="grey" port='chan_1'>Channel 1</td>
+            <td bgcolor="grey" port='chan_2'>Channel 2</td>
+            <td bgcolor="black" port='chan_3'><font color="grey">Channel 3</font></td>
+         </tr>
+     </table>
+  >];
+
+
+}
